@@ -1,16 +1,12 @@
-# clothes_store
+﻿# Clothes Store
+# MVVM - GetX - Firebase (Authintication, Cloud Firestore, Storage)
+# Description: 
+    • An E-commerce Application which let the user to create their own online store shop.
+    • All Application Users can buy And sell all clothes Type ( Women or mans or kids ).
+# Technologies in development :
+    1. Using Firebase As backend ( authintication, colud firestore, Storage ). 
+    2. MVVM With GetX State Management.
+    3. Modal Progress Hud.
+    4. Cached Network Image.
+    5. Flutter Navigation Drawer with Custom TabBar View.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
